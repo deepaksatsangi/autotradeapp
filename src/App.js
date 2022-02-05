@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Welcome to Auto trading app.</h1>
         <h2>The app will automatically do a paper trade</h2>
-        <h3>The app development is in progress...</h3>
+        <h3>The app development is in progress... It would be available soon for your review!</h3>
       </header>
     </div>
   );
